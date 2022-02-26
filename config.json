@@ -1,0 +1,31 @@
+{
+  "jobs": [
+    {
+      "type": "http",
+      "args": {
+        "method": "POST",
+        "path": "http://tutu.ru",
+        "headers": {
+          "Authorization": "Bearer: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMjM0NTY3ODkwIiwibmFtZSI6IkpvaG4gRG9lIiwiaWF0IjoxNTE2MjM5MDIyfQ.SflKxwRJSMeKKF2QT4fwpMeJf36POk6yJV_adQssw5c"
+        },
+        "body": "lkasdng.,afgn.,asngfjklawne;la nsdfjasd;sa.gn wjae fnjaksdbgjkasndg,.asdnfm,sadnf,.mn"
+      }
+    },
+    {
+      "type": "tcp",
+      "args": {
+        "address": "tutu.ru:9090",
+        "header": "sjkhfalkjsdghakjsdgh",
+        "body": "lasdhgk;jasngjkla;sdbngjkalnerjasndkgjbadsgjklabrgjkbsandkjgbasklebgjaskbdgaskljdgbaslhkdg"
+      }
+    },
+    {
+      "type": "http",
+      "count": 100,
+      "args": {
+        "method": "POST",
+        "path": "http://tutu.ru"
+      }
+    }
+  ]
+}
