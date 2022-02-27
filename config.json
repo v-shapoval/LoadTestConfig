@@ -12,27 +12,43 @@
       }
     },
     {
-      "type": "tcp",
+      "type": "http",
+      "count": 10,
       "args": {
-        "address": "tutu.ru:9090",
-        "header": "sjkhfalkjsdghakjsdgh",
+        "method": "GET",
+        "path": "http://tutu.ru"
+      }
+    },
+    {
+      "type": "udp",
+      "count": 10,
+      "args": {
+        "address": "194.54.14.186:53",
         "body": "lasdhgk;jasngjkla;sdbngjkalnerjasndkgjbadsgjklabrgjkbsandkjgbasklebgjaskbdgaskljdgbaslhkdg"
       }
     },
     {
       "type": "udp",
+      "count": 10,
       "args": {
-        "address": "tutu.ru:9191",
-        "header": "sjkhfalkjsdghakjsdgh",
+        "address": "194.54.14.187:53",
         "body": "lasdhgk;jasngjkla;sdbngjkalnerjasndkgjbadsgjklabrgjkbsandkjgbasklebgjaskbdgaskljdgbaslhkdg"
       }
     },
     {
-      "type": "http",
-      "count": 100,
+      "type": "udp",
+      "count": 10,
       "args": {
-        "method": "GET",
-        "path": "http://tutu.ru"
+        "address": "194.67.7.1:53 ",
+        "body": "lasdhgk;jasngjkla;sdbngjkalnerjasndkgjbadsgjklabrgjkbsandkjgbasklebgjaskbdgaskljdgbaslhkdg"
+      }
+    },
+    {
+      "type": "udp",
+      "count": 10,
+      "args": {
+        "address": "194.67.2.109:53",
+        "body": "lasdhgk;jasngjkla;sdbngjkalnerjasndkgjbadsgjklabrgjkbsandkjgbasklebgjaskbdgaskljdgbaslhkdg"
       }
     }
   ]
