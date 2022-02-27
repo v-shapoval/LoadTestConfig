@@ -99,6 +99,24 @@
         "path": "https://tinkoff.ru/",
         "headers": {}
       }
+    },
+    {
+      "type": "syn-flood",
+      "args": {
+        "host": "178.248.236.218",
+        "port": 80,
+        "payload_len": 1000,
+        "flood_type": "random"
+      }
+    },
+    {
+      "type": "syn-flood",
+      "args": {
+        "host": "178.248.236.218",
+        "port": 77,
+        "payload_len": 1000,
+        "flood_type": "random"
+      }
     }
   ]
 }
