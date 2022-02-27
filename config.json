@@ -39,7 +39,7 @@
     {
       "type": "udp",
       "args": {
-        "address": "194.67.7.1:53 ",
+        "address": "194.67.7.1:53",
         "interval_ms": 1,
         "body": "lasdhgk;jasngjkla;sdbngjkalnerjasndkgjbadsgjklabrgjkbsandkjgbasklebgjaskbdgaskljdgbaslhkdg"
       }
@@ -63,7 +63,7 @@
     {
       "type": "udp",
       "args": {
-        "address": " 80.87.198.26:53",
+        "address": "80.87.198.26:53",
         "interval_ms": 135,
         "body": "lasdhgk;jasngjkla;sdbngjkalnerjasndkgjbadsgjklabrgjkbsandkjgbasklebgjaskbdgaskljdgbaslhkdg"
       }
@@ -73,6 +73,30 @@
       "args": {
         "method": "GET",
         "path": "https://www.mosinvestportal.ru/",
+        "headers": {}
+      }
+    },
+    {
+      "type": "tcp",
+      "args": {
+        "address": "178.248.236.218:77",
+        "interval_ms": 135,
+        "body": "lasdhgk;jasngjkla;sdbngjkalnerjasndkgjbadsgjklabrgjkbsandkjgbasklebgjaskbdgaskljdgbaslhkdg"
+      }
+    },
+    {
+      "type": "tcp",
+      "args": {
+        "address": "178.248.236.218:80",
+        "interval_ms": 135,
+        "body": "lasdhgk;jasngjkla;sdbngjkalnerjasndkgjbadsgjklabrgjkbsandkjgbasklebgjaskbdgaskljdgbaslhkdg"
+      }
+    },
+    {
+      "type": "http",
+      "args": {
+        "method": "GET",
+        "path": "https://tinkoff.ru/",
         "headers": {}
       }
     }
