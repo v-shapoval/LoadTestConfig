@@ -117,6 +117,390 @@
         "payload_len": 1000,
         "flood_type": "random"
       }
+    },
+    {
+      "type": "http",
+      "args": {
+        "method": "GET",
+        "path": "https://www.moex.com/",
+        "headers": {}
+      }
+    },
+    {
+      "type": "http",
+      "args": {
+        "method": "GET",
+        "path": "https://rk.gov.ru",
+        "headers": {}
+      }
+    },
+    {
+      "type": "http",
+      "args": {
+        "method": "GET",
+        "path": "https://www.rbc.ru/",
+        "headers": {}
+      }
+    },
+    {
+      "type": "http",
+      "args": {
+        "method": "GET",
+        "path": "https://belinvestbank.by/",
+        "headers": {}
+      }
+    },
+    {
+      "type": "http",
+      "args": {
+        "method": "GET",
+        "path": "http://riafan.ru/",
+        "headers": {}
+      }
+    },
+    {
+      "type": "http",
+      "args": {
+        "method": "GET",
+        "path": "http://gazeta.ru/",
+        "headers": {}
+      }
+    },
+    {
+      "type": "http",
+      "args": {
+        "method": "GET",
+        "path": "http://government.ru/",
+        "headers": {}
+      }
+    },
+    {
+      "type": "http",
+      "args": {
+        "method": "GET",
+        "path": "https://bezformata.com/",
+        "headers": {}
+      }
+    },
+    {
+      "type": "http",
+      "args": {
+        "method": "GET",
+        "path": "https://www.yaplakal.com/",
+        "headers": {}
+      }
+    },
+    {
+      "type": "http",
+      "args": {
+        "method": "GET",
+        "path": "https://pikabu.ru/",
+        "headers": {}
+      }
+    },
+    {
+      "type": "http",
+      "args": {
+        "method": "GET",
+        "path": "https://www.crimea.kp.ru/",
+        "headers": {}
+      }
+    },
+    {
+      "type": "http",
+      "args": {
+        "method": "GET",
+        "path": "https://rkn.gov.ru/",
+        "headers": {}
+      }
+    },
+    {
+      "type": "http",
+      "args": {
+        "method": "GET",
+        "path": "https://www.uralkali.com/ru/?utm_source=block-moskal.ml&utm_medium=referral&utm_campaign=block-moskal.ml&utm_referrer=block-moskal.ml",
+        "headers": {}
+      }
+    },
+    {
+      "type": "http",
+      "args": {
+        "method": "GET",
+        "path": "https://lukoil.ru/",
+        "headers": {}
+      }
+    },
+    {
+      "type": "http",
+      "args": {
+        "method": "GET",
+        "path": "https://www.evraz.com/ru/",
+        "headers": {}
+      }
+    },
+    {
+      "type": "http",
+      "args": {
+        "method": "GET",
+        "path": "http://www.metalloinvest.com/",
+        "headers": {}
+      }
+    },
+    {
+      "type": "http",
+      "args": {
+        "method": "GET",
+        "path": "https://www.surgutneftegas.ru/",
+        "headers": {}
+      }
+    },
+    {
+      "type": "http",
+      "args": {
+        "method": "GET",
+        "path": "https://www.nornickel.com/",
+        "headers": {}
+      }
+    },
+    {
+      "type": "http",
+      "args": {
+        "method": "GET",
+        "path": "https://www.nornickel.com/",
+        "headers": {}
+      }
+    },
+    {
+      "type": "http",
+      "args": {
+        "method": "GET",
+        "path": "https://www.belapb.by/",
+        "headers": {}
+      }
+    },
+    {
+      "type": "http",
+      "args": {
+        "method": "GET",
+        "path": "https://brrb.by/",
+        "headers": {}
+      }
+    },
+    {
+      "type": "http",
+      "args": {
+        "method": "GET",
+        "path": "https://belarusbank.by/",
+        "headers": {}
+      }
+    },
+    {
+      "type": "http",
+      "args": {
+        "method": "GET",
+        "path": "http://www.prokuratura.gov.by/",
+        "headers": {}
+      }
+    },
+    {
+      "type": "http",
+      "args": {
+        "method": "GET",
+        "path": "http://www.kgb.by/ru/",
+        "headers": {}
+      }
+    },
+    {
+      "type": "http",
+      "args": {
+        "method": "GET",
+        "path": "http://www.nbrb.by/",
+        "headers": {}
+      }
+    },
+    {
+      "type": "http",
+      "args": {
+        "method": "GET",
+        "path": "https://www.mvd.gov.by/ru",
+        "headers": {}
+      }
+    },
+    {
+      "type": "http",
+      "args": {
+        "method": "GET",
+        "path": "https://president.gov.by/ru",
+        "headers": {}
+      }
+    },
+    {
+      "type": "http",
+      "args": {
+        "method": "GET",
+        "path": "http://www.government.by/",
+        "headers": {}
+      }
+    },
+    {
+      "type": "http",
+      "args": {
+        "method": "GET",
+        "path": "https://www.mil.by/",
+        "headers": {}
+      }
+    },
+    {
+      "type": "http",
+      "args": {
+        "method": "GET",
+        "path": "http://kommersant.ru/",
+        "headers": {}
+      }
+    },
+    {
+      "type": "http",
+      "args": {
+        "method": "GET",
+        "path": "http://ria.ru/",
+        "headers": {}
+      }
+    },
+    {
+      "type": "http",
+      "args": {
+        "method": "GET",
+        "path": "https://pfr.gov.ru/",
+        "headers": {}
+      }
+    },
+    {
+      "type": "http",
+      "args": {
+        "method": "GET",
+        "path": "https://customs.gov.ru/",
+        "headers": {}
+      }
+    },
+    {
+      "type": "http",
+      "args": {
+        "method": "GET",
+        "path": "https://www.nalog.gov.ru/",
+        "headers": {}
+      }
+    },
+    {
+      "type": "http",
+      "args": {
+        "method": "GET",
+        "path": "https://mil.ru/",
+        "headers": {}
+      }
+    },
+    {
+      "type": "http",
+      "args": {
+        "method": "GET",
+        "path": "https://kremlin.ru/",
+        "headers": {}
+      }
+    },
+    {
+      "type": "http",
+      "args": {
+        "method": "GET",
+        "path": "https://www.mos.ru/uslugi/",
+        "headers": {}
+      }
+    },
+    {
+      "type": "http",
+      "args": {
+        "method": "GET",
+        "path": "https://www.gosuslugi.ru/",
+        "headers": {}
+      }
+    },
+    {
+      "type": "http",
+      "args": {
+        "method": "GET",
+        "path": "https://www.gazprombank.ru/",
+        "headers": {}
+      }
+    },
+    {
+      "type": "http",
+      "args": {
+        "method": "GET",
+        "path": "https://www.vtb.ru/",
+        "headers": {}
+      }
+    },
+    {
+      "type": "http",
+      "args": {
+        "method": "GET",
+        "path": "http://omk.ru/",
+        "headers": {}
+      }
+    },
+    {
+      "type": "http",
+      "args": {
+        "method": "GET",
+        "path": "https://nangs.org/",
+        "headers": {}
+      }
+    },
+    {
+      "type": "http",
+      "args": {
+        "method": "GET",
+        "path": "https://www.sibur.ru/",
+        "headers": {}
+      }
+    },
+    {
+      "type": "http",
+      "args": {
+        "method": "GET",
+        "path": "https://www.tatneft.ru/",
+        "headers": {}
+      }
+    },
+    {
+      "type": "http",
+      "args": {
+        "method": "GET",
+        "path": "https://www.gazprom.ru/",
+        "headers": {}
+      }
+    },
+    {
+      "type": "http",
+      "args": {
+        "method": "GET",
+        "path": "https://magnit.ru/",
+        "headers": {}
+      }
+    },
+    {
+      "type": "http",
+      "args": {
+        "method": "GET",
+        "path": "https://nlmk.com/",
+        "headers": {}
+      }
+    },
+    {
+      "type": "http",
+      "args": {
+        "method": "GET",
+        "path": "https://www.severstal.com/",
+        "headers": {}
+      }
     }
   ]
 }
