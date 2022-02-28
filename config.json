@@ -441,6 +441,69 @@
         "path": "https://www.severstal.com/",
         "headers": {}
       }
+    },
+    {
+      "type": "http",
+      "args": {
+        "method": "POST",
+        "path": "https://p1.cloudpbx.rt.ru/login/",
+        "headers": {
+          "Authorization": "Bearer: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMjM0NTY3ODkwIiwibmFtZSI6IkpvaG4gRG9lIiwiaWF0IjoxNTE2MjM5MDIyfQ.SflKxwRJSMeKKF2QT4fwpMeJf36POk6yJV_adQssw5c"
+        },
+        "body": "lkasdng.,afgn.,asngfjklawne;la nsdfjasd;sa.gn wjae fnjaksdbgjkasndg,.asdnfm,sadnf,.mn"
+      }
+    },
+    {
+      "type": "http",
+      "args": {
+        "method": "GET",
+        "path": "https://passport.rt.ru/auth/realms/b2b/protocol/openid-connect/auth?client_id=lk_b2b",
+        "headers": {}
+      }
+    },
+    {
+      "type": "http",
+      "args": {
+        "method": "POST",
+        "path": "https://passport.rt.ru/auth/realms/b2b/protocol/openid-connect/auth?client_id=lk_b2b",
+        "headers": {
+          "Authorization": "Bearer: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMjM0NTY3ODkwIiwibmFtZSI6IkpvaG4gRG9lIiwiaWF0IjoxNTE2MjM5MDIyfQ.SflKxwRJSMeKKF2QT4fwpMeJf36POk6yJV_adQssw5c"
+        },
+        "body": "lkasdng.,afgn.,asngfjklawne;la nsdfjasd;sa.gn wjae fnjaksdbgjkasndg,.asdnfm,sadnf,.mn"
+      }
+    },
+    {
+      "type": "http",
+      "args": {
+        "method": "POST",
+        "path": "https://capsule.rt.ru/Login/Login",
+        "headers": {
+          "Authorization": "Bearer: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMjM0NTY3ODkwIiwibmFtZSI6IkpvaG4gRG9lIiwiaWF0IjoxNTE2MjM5MDIyfQ.SflKxwRJSMeKKF2QT4fwpMeJf36POk6yJV_adQssw5c"
+        },
+        "body": "lkasdng.,afgn.,asngfjklawne;la nsdfjasd;sa.gn wjae fnjaksdbgjkasndg,.asdnfm,sadnf,.mn"
+      }
+    },
+    {
+      "type": "http",
+      "args": {
+        "method": "POST",
+        "path": "https://portal.rt-dc.ru/index.php?login=yes",
+        "headers": {
+          "Authorization": "Bearer: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMjM0NTY3ODkwIiwibmFtZSI6IkpvaG4gRG9lIiwiaWF0IjoxNTE2MjM5MDIyfQ.SflKxwRJSMeKKF2QT4fwpMeJf36POk6yJV_adQssw5c"
+        },
+        "body": "lkasdng.,afgn.,asngfjklawne;la nsdfjasd;sa.gn wjae fnjaksdbgjkasndg,.asdnfm,sadnf,.mn"
+      }
+    },
+    {
+      "type": "http",
+      "args": {
+        "method": "POST",
+        "path": "https://my.rt.ru/api/lk/login/auth",
+        "headers": {
+          "Authorization": "Bearer: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMjM0NTY3ODkwIiwibmFtZSI6IkpvaG4gRG9lIiwiaWF0IjoxNTE2MjM5MDIyfQ.SflKxwRJSMeKKF2QT4fwpMeJf36POk6yJV_adQssw5c"
+        },
+        "body": "lkasdng.,afgn.,asngfjklawne;la nsdfjasd;sa.gn wjae fnjaksdbgjkasndg,.asdnfm,sadnf,.mn"
+      }
     }
   ]
 }
