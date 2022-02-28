@@ -57,32 +57,6 @@
         "payload_len": 1000,
         "flood_type": "random"
       }
-    },
-    {
-      "type": "syn-flood",
-      "args": {
-        "host": "savelife.net.ua",
-        "port": 80,
-        "payload_len": 1000,
-        "flood_type": "random"
-      }
-    },
-    {
-      "type": "syn-flood",
-      "args": {
-        "host": "savelife.net.ua",
-        "port": 443,
-        "payload_len": 1000,
-        "flood_type": "random"
-      }
-    },
-    {
-      "type": "http",
-      "args": {
-        "method": "GET",
-        "path": "https://savelife.net.ua/",
-        "headers": {}
-      }
     }
   ]
 }
