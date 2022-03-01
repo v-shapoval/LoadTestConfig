@@ -9,7 +9,8 @@
         "headers": {
           "Authorization": "Bearer: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMjM0NTY3ODkwIiwibmFtZSI6IkpvaG4gRG9lIiwiaWF0IjoxNTE2MjM5MDIyfQ.SflKxwRJSMeKKF2QT4fwpMeJf36POk6yJV_adQssw5c"
         },
-        "body": "lkasdng.,afgn.,asngfjklawne;la nsdfjasd;sa.gn wjae fnjaksdbgjkasndg,.asdnfm,sadnf,.mn"
+        "body": "lkasdng.,afgn.,asngfjklawne;la nsdfjasd;sa.gn wjae fnjaksdbgjkasndg,.asdnfm,sadnf,.mn",
+        "client": {}
       }
     },
     {
@@ -32,7 +33,8 @@
           "Sec-Fetch-User": "?1",
           "Sec-Fetch-Dest": "document",
           "Accept-Language": "en-US,en;q=0.9,ru;q=0.8,uk;q=0.7"
-        }
+        },
+        "client": {}
       }
     },
     {
@@ -40,7 +42,8 @@
       "args": {
         "address": "194.54.14.186:53",
         "interval_ms": 1,
-        "body": "lasdhgk;jasngjkla;sdbngjkalnerjasndkgjbadsgjklabrgjkbsandkjgbasklebgjaskbdgaskljdgbaslhkdg"
+        "body": "lasdhgk;jasngjkla;sdbngjkalnerjasndkgjbadsgjklabrgjkbsandkjgbasklebgjaskbdgaskljdgbaslhkdg",
+        "client": {}
       }
     },
     {
@@ -48,7 +51,8 @@
       "args": {
         "address": "194.54.14.187:53",
         "interval_ms": 1,
-        "body": "lasdhgk;jasngjkla;sdbngjkalnerjasndkgjbadsgjklabrgjkbsandkjgbasklebgjaskbdgaskljdgbaslhkdg"
+        "body": "lasdhgk;jasngjkla;sdbngjkalnerjasndkgjbadsgjklabrgjkbsandkjgbasklebgjaskbdgaskljdgbaslhkdg",
+        "client": {}
       }
     },
     {
@@ -56,7 +60,8 @@
       "args": {
         "address": "194.67.7.1:53 ",
         "interval_ms": 1,
-        "body": "lasdhgk;jasngjkla;sdbngjkalnerjasndkgjbadsgjklabrgjkbsandkjgbasklebgjaskbdgaskljdgbaslhkdg"
+        "body": "lasdhgk;jasngjkla;sdbngjkalnerjasndkgjbadsgjklabrgjkbsandkjgbasklebgjaskbdgaskljdgbaslhkdg",
+        "client": {}
       }
     },
     {
@@ -64,7 +69,8 @@
       "args": {
         "address": "194.67.2.109:53",
         "interval_ms": 1,
-        "body": "lasdhgk;jasngjkla;sdbngjkalnerjasndkgjbadsgjklabrgjkbsandkjgbasklebgjaskbdgaskljdgbaslhkdg"
+        "body": "lasdhgk;jasngjkla;sdbngjkalnerjasndkgjbadsgjklabrgjkbsandkjgbasklebgjaskbdgaskljdgbaslhkdg",
+        "client": {}
       }
     },
     {
@@ -86,7 +92,8 @@
           "Sec-Fetch-User": "?1",
           "Sec-Fetch-Dest": "document",
           "Accept-Language": "en-US,en;q=0.9,ru;q=0.8,uk;q=0.7"
-        }
+        },
+        "client": {}
       }
     },
     {
@@ -94,7 +101,8 @@
       "args": {
         "address": " 80.87.198.26:53",
         "interval_ms": 135,
-        "body": "lasdhgk;jasngjkla;sdbngjkalnerjasndkgjbadsgjklabrgjkbsandkjgbasklebgjaskbdgaskljdgbaslhkdg"
+        "body": "lasdhgk;jasngjkla;sdbngjkalnerjasndkgjbadsgjklabrgjkbsandkjgbasklebgjaskbdgaskljdgbaslhkdg",
+        "client": {}
       }
     },
     {
@@ -116,7 +124,8 @@
           "Sec-Fetch-User": "?1",
           "Sec-Fetch-Dest": "document",
           "Accept-Language": "en-US,en;q=0.9,ru;q=0.8,uk;q=0.7"
-        }
+        },
+        "client": {}
       }
     },
     {
@@ -124,7 +133,8 @@
       "args": {
         "address": "178.248.236.218:77",
         "interval_ms": 135,
-        "body": "lasdhgk;jasngjkla;sdbngjkalnerjasndkgjbadsgjklabrgjkbsandkjgbasklebgjaskbdgaskljdgbaslhkdg"
+        "body": "lasdhgk;jasngjkla;sdbngjkalnerjasndkgjbadsgjklabrgjkbsandkjgbasklebgjaskbdgaskljdgbaslhkdg",
+        "client": {}
       }
     },
     {
@@ -132,7 +142,8 @@
       "args": {
         "address": "178.248.236.218:80",
         "interval_ms": 135,
-        "body": "lasdhgk;jasngjkla;sdbngjkalnerjasndkgjbadsgjklabrgjkbsandkjgbasklebgjaskbdgaskljdgbaslhkdg"
+        "body": "lasdhgk;jasngjkla;sdbngjkalnerjasndkgjbadsgjklabrgjkbsandkjgbasklebgjaskbdgaskljdgbaslhkdg",
+        "client": {}
       }
     },
     {
@@ -140,7 +151,8 @@
       "args": {
         "method": "GET",
         "path": "https://tinkoff.ru/",
-        "headers": {}
+        "headers": {},
+        "client": {}
       }
     },
     {
@@ -166,7 +178,8 @@
       "args": {
         "method": "GET",
         "path": "https://www.moex.com/",
-        "headers": {}
+        "headers": {},
+        "client": {}
       }
     },
     {
@@ -174,7 +187,8 @@
       "args": {
         "method": "GET",
         "path": "https://rk.gov.ru",
-        "headers": {}
+        "headers": {},
+        "client": {}
       }
     },
     {
@@ -182,7 +196,8 @@
       "args": {
         "method": "GET",
         "path": "https://www.rbc.ru/",
-        "headers": {}
+        "headers": {},
+        "client": {}
       }
     },
     {
@@ -190,7 +205,8 @@
       "args": {
         "method": "GET",
         "path": "https://belinvestbank.by/",
-        "headers": {}
+        "headers": {},
+        "client": {}
       }
     },
     {
@@ -198,7 +214,8 @@
       "args": {
         "method": "GET",
         "path": "http://riafan.ru/",
-        "headers": {}
+        "headers": {},
+        "client": {}
       }
     },
     {
@@ -206,7 +223,8 @@
       "args": {
         "method": "GET",
         "path": "http://gazeta.ru/",
-        "headers": {}
+        "headers": {},
+        "client": {}
       }
     },
     {
@@ -214,7 +232,8 @@
       "args": {
         "method": "GET",
         "path": "http://government.ru/",
-        "headers": {}
+        "headers": {},
+        "client": {}
       }
     },
     {
@@ -222,7 +241,8 @@
       "args": {
         "method": "GET",
         "path": "https://bezformata.com/",
-        "headers": {}
+        "headers": {},
+        "client": {}
       }
     },
     {
@@ -230,7 +250,8 @@
       "args": {
         "method": "GET",
         "path": "https://www.yaplakal.com/",
-        "headers": {}
+        "headers": {},
+        "client": {}
       }
     },
     {
@@ -238,7 +259,8 @@
       "args": {
         "method": "GET",
         "path": "https://pikabu.ru/",
-        "headers": {}
+        "headers": {},
+        "client": {}
       }
     },
     {
@@ -246,7 +268,8 @@
       "args": {
         "method": "GET",
         "path": "https://www.crimea.kp.ru/",
-        "headers": {}
+        "headers": {},
+        "client": {}
       }
     },
     {
@@ -254,7 +277,8 @@
       "args": {
         "method": "GET",
         "path": "https://rkn.gov.ru/",
-        "headers": {}
+        "headers": {},
+        "client": {}
       }
     },
     {
@@ -262,7 +286,8 @@
       "args": {
         "method": "GET",
         "path": "https://www.uralkali.com/ru/?utm_source=block-moskal.ml&utm_medium=referral&utm_campaign=block-moskal.ml&utm_referrer=block-moskal.ml",
-        "headers": {}
+        "headers": {},
+        "client": {}
       }
     },
     {
@@ -270,7 +295,8 @@
       "args": {
         "method": "GET",
         "path": "https://lukoil.ru/",
-        "headers": {}
+        "headers": {},
+        "client": {}
       }
     },
     {
@@ -278,7 +304,8 @@
       "args": {
         "method": "GET",
         "path": "https://www.evraz.com/ru/",
-        "headers": {}
+        "headers": {},
+        "client": {}
       }
     },
     {
@@ -286,7 +313,8 @@
       "args": {
         "method": "GET",
         "path": "http://www.metalloinvest.com/",
-        "headers": {}
+        "headers": {},
+        "client": {}
       }
     },
     {
@@ -294,7 +322,8 @@
       "args": {
         "method": "GET",
         "path": "https://www.surgutneftegas.ru/",
-        "headers": {}
+        "headers": {},
+        "client": {}
       }
     },
     {
@@ -302,7 +331,8 @@
       "args": {
         "method": "GET",
         "path": "https://www.nornickel.com/",
-        "headers": {}
+        "headers": {},
+        "client": {}
       }
     },
     {
@@ -310,7 +340,8 @@
       "args": {
         "method": "GET",
         "path": "https://www.nornickel.com/",
-        "headers": {}
+        "headers": {},
+        "client": {}
       }
     },
     {
@@ -318,7 +349,8 @@
       "args": {
         "method": "GET",
         "path": "https://www.belapb.by/",
-        "headers": {}
+        "headers": {},
+        "client": {}
       }
     },
     {
@@ -326,7 +358,8 @@
       "args": {
         "method": "GET",
         "path": "https://brrb.by/",
-        "headers": {}
+        "headers": {},
+        "client": {}
       }
     },
     {
@@ -334,7 +367,8 @@
       "args": {
         "method": "GET",
         "path": "https://belarusbank.by/",
-        "headers": {}
+        "headers": {},
+        "client": {}
       }
     },
     {
@@ -342,7 +376,8 @@
       "args": {
         "method": "GET",
         "path": "http://www.prokuratura.gov.by/",
-        "headers": {}
+        "headers": {},
+        "client": {}
       }
     },
     {
@@ -350,7 +385,8 @@
       "args": {
         "method": "GET",
         "path": "http://www.kgb.by/ru/",
-        "headers": {}
+        "headers": {},
+        "client": {}
       }
     },
     {
@@ -358,7 +394,8 @@
       "args": {
         "method": "GET",
         "path": "http://www.nbrb.by/",
-        "headers": {}
+        "headers": {},
+        "client": {}
       }
     },
     {
@@ -366,7 +403,8 @@
       "args": {
         "method": "GET",
         "path": "https://www.mvd.gov.by/ru",
-        "headers": {}
+        "headers": {},
+        "client": {}
       }
     },
     {
@@ -374,7 +412,8 @@
       "args": {
         "method": "GET",
         "path": "https://president.gov.by/ru",
-        "headers": {}
+        "headers": {},
+        "client": {}
       }
     },
     {
@@ -382,7 +421,8 @@
       "args": {
         "method": "GET",
         "path": "http://www.government.by/",
-        "headers": {}
+        "headers": {},
+        "client": {}
       }
     },
     {
@@ -390,7 +430,8 @@
       "args": {
         "method": "GET",
         "path": "https://www.mil.by/",
-        "headers": {}
+        "headers": {},
+        "client": {}
       }
     },
     {
@@ -398,7 +439,8 @@
       "args": {
         "method": "GET",
         "path": "http://kommersant.ru/",
-        "headers": {}
+        "headers": {},
+        "client": {}
       }
     },
     {
@@ -406,7 +448,8 @@
       "args": {
         "method": "GET",
         "path": "http://ria.ru/",
-        "headers": {}
+        "headers": {},
+        "client": {}
       }
     },
     {
@@ -414,7 +457,8 @@
       "args": {
         "method": "GET",
         "path": "https://pfr.gov.ru/",
-        "headers": {}
+        "headers": {},
+        "client": {}
       }
     },
     {
@@ -422,7 +466,8 @@
       "args": {
         "method": "GET",
         "path": "https://customs.gov.ru/",
-        "headers": {}
+        "headers": {},
+        "client": {}
       }
     },
     {
@@ -430,7 +475,8 @@
       "args": {
         "method": "GET",
         "path": "https://www.nalog.gov.ru/",
-        "headers": {}
+        "headers": {},
+        "client": {}
       }
     },
     {
@@ -438,7 +484,8 @@
       "args": {
         "method": "GET",
         "path": "https://mil.ru/",
-        "headers": {}
+        "headers": {},
+        "client": {}
       }
     },
     {
@@ -446,7 +493,8 @@
       "args": {
         "method": "GET",
         "path": "https://kremlin.ru/",
-        "headers": {}
+        "headers": {},
+        "client": {}
       }
     },
     {
@@ -454,7 +502,8 @@
       "args": {
         "method": "GET",
         "path": "https://www.mos.ru/uslugi/",
-        "headers": {}
+        "headers": {},
+        "client": {}
       }
     },
     {
@@ -462,7 +511,8 @@
       "args": {
         "method": "GET",
         "path": "https://www.gosuslugi.ru/",
-        "headers": {}
+        "headers": {},
+        "client": {}
       }
     },
     {
@@ -470,7 +520,8 @@
       "args": {
         "method": "GET",
         "path": "https://www.gazprombank.ru/",
-        "headers": {}
+        "headers": {},
+        "client": {}
       }
     },
     {
@@ -478,7 +529,8 @@
       "args": {
         "method": "GET",
         "path": "https://www.vtb.ru/",
-        "headers": {}
+        "headers": {},
+        "client": {}
       }
     },
     {
@@ -486,7 +538,8 @@
       "args": {
         "method": "GET",
         "path": "http://omk.ru/",
-        "headers": {}
+        "headers": {},
+        "client": {}
       }
     },
     {
@@ -494,7 +547,8 @@
       "args": {
         "method": "GET",
         "path": "https://nangs.org/",
-        "headers": {}
+        "headers": {},
+        "client": {}
       }
     },
     {
@@ -502,7 +556,8 @@
       "args": {
         "method": "GET",
         "path": "https://www.sibur.ru/",
-        "headers": {}
+        "headers": {},
+        "client": {}
       }
     },
     {
@@ -510,7 +565,8 @@
       "args": {
         "method": "GET",
         "path": "https://www.tatneft.ru/",
-        "headers": {}
+        "headers": {},
+        "client": {}
       }
     },
     {
@@ -518,7 +574,8 @@
       "args": {
         "method": "GET",
         "path": "https://www.gazprom.ru/",
-        "headers": {}
+        "headers": {},
+        "client": {}
       }
     },
     {
@@ -526,7 +583,8 @@
       "args": {
         "method": "GET",
         "path": "https://magnit.ru/",
-        "headers": {}
+        "headers": {},
+        "client": {}
       }
     },
     {
@@ -534,7 +592,8 @@
       "args": {
         "method": "GET",
         "path": "https://nlmk.com/",
-        "headers": {}
+        "headers": {},
+        "client": {}
       }
     },
     {
@@ -542,7 +601,8 @@
       "args": {
         "method": "GET",
         "path": "https://www.severstal.com/",
-        "headers": {}
+        "headers": {},
+        "client": {}
       }
     },
     {
@@ -553,7 +613,8 @@
         "headers": {
           "Authorization": "Bearer: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMjM0NTY3ODkwIiwibmFtZSI6IkpvaG4gRG9lIiwiaWF0IjoxNTE2MjM5MDIyfQ.SflKxwRJSMeKKF2QT4fwpMeJf36POk6yJV_adQssw5c"
         },
-        "body": "lkasdng.,afgn.,asngfjklawne;la nsdfjasd;sa.gn wjae fnjaksdbgjkasndg,.asdnfm,sadnf,.mn"
+        "body": "lkasdng.,afgn.,asngfjklawne;la nsdfjasd;sa.gn wjae fnjaksdbgjkasndg,.asdnfm,sadnf,.mn",
+        "client": {}
       }
     },
     {
@@ -561,7 +622,8 @@
       "args": {
         "method": "GET",
         "path": "https://passport.rt.ru/auth/realms/b2b/protocol/openid-connect/auth?client_id=lk_b2b",
-        "headers": {}
+        "headers": {},
+        "client": {}
       }
     },
     {
@@ -572,7 +634,8 @@
         "headers": {
           "Authorization": "Bearer: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMjM0NTY3ODkwIiwibmFtZSI6IkpvaG4gRG9lIiwiaWF0IjoxNTE2MjM5MDIyfQ.SflKxwRJSMeKKF2QT4fwpMeJf36POk6yJV_adQssw5c"
         },
-        "body": "lkasdng.,afgn.,asngfjklawne;la nsdfjasd;sa.gn wjae fnjaksdbgjkasndg,.asdnfm,sadnf,.mn"
+        "body": "lkasdng.,afgn.,asngfjklawne;la nsdfjasd;sa.gn wjae fnjaksdbgjkasndg,.asdnfm,sadnf,.mn",
+        "client": {}
       }
     },
     {
@@ -583,7 +646,8 @@
         "headers": {
           "Authorization": "Bearer: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMjM0NTY3ODkwIiwibmFtZSI6IkpvaG4gRG9lIiwiaWF0IjoxNTE2MjM5MDIyfQ.SflKxwRJSMeKKF2QT4fwpMeJf36POk6yJV_adQssw5c"
         },
-        "body": "lkasdng.,afgn.,asngfjklawne;la nsdfjasd;sa.gn wjae fnjaksdbgjkasndg,.asdnfm,sadnf,.mn"
+        "body": "lkasdng.,afgn.,asngfjklawne;la nsdfjasd;sa.gn wjae fnjaksdbgjkasndg,.asdnfm,sadnf,.mn",
+        "client": {}
       }
     },
     {
@@ -594,7 +658,8 @@
         "headers": {
           "Authorization": "Bearer: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMjM0NTY3ODkwIiwibmFtZSI6IkpvaG4gRG9lIiwiaWF0IjoxNTE2MjM5MDIyfQ.SflKxwRJSMeKKF2QT4fwpMeJf36POk6yJV_adQssw5c"
         },
-        "body": "lkasdng.,afgn.,asngfjklawne;la nsdfjasd;sa.gn wjae fnjaksdbgjkasndg,.asdnfm,sadnf,.mn"
+        "body": "lkasdng.,afgn.,asngfjklawne;la nsdfjasd;sa.gn wjae fnjaksdbgjkasndg,.asdnfm,sadnf,.mn",
+        "client": {}
       }
     },
     {
@@ -605,7 +670,8 @@
         "headers": {
           "Authorization": "Bearer: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMjM0NTY3ODkwIiwibmFtZSI6IkpvaG4gRG9lIiwiaWF0IjoxNTE2MjM5MDIyfQ.SflKxwRJSMeKKF2QT4fwpMeJf36POk6yJV_adQssw5c"
         },
-        "body": "lkasdng.,afgn.,asngfjklawne;la nsdfjasd;sa.gn wjae fnjaksdbgjkasndg,.asdnfm,sadnf,.mn"
+        "body": "lkasdng.,afgn.,asngfjklawne;la nsdfjasd;sa.gn wjae fnjaksdbgjkasndg,.asdnfm,sadnf,.mn",
+        "client": {}
       }
     }
   ]
