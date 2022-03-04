@@ -22,7 +22,7 @@
     {
       "type": "udp",
       "args": {
-        "address": "195.93.246.187:53 ",
+        "address": "195.93.246.187:53",
         "interval_ms": 1,
         "body": "{{- random_payload 1000 -}}",
         "client": { "proxy_urls": "{{ get_proxylist }}" }
